@@ -97,4 +97,4 @@ if st.session_state.idiom_answered:
     # Show Next button
     if st.button("Next"):
         load_new_idiom_question()
-        st.experimental_rerun()
+        st.rerun()
