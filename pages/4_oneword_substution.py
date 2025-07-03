@@ -81,4 +81,4 @@ if st.session_state.oneword_answered:
     # Next question
     if st.button("Next"):
         load_new_question()
-        st.experimental_rerun()
+        st.rerun()

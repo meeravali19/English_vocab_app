@@ -87,6 +87,6 @@ def spelling_quiz():
     if st.session_state.spelling_answered:
         if st.button("Next"):
             generate_new_spelling_question()
-            st.experimental_rerun()  # 🔄 Force rerun to reset state cleanly
+            st.rerun()  # 🔄 Force rerun to reset state cleanly
 
 spelling_quiz()
