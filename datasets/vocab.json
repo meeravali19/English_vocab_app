@@ -1,0 +1,912 @@
+[
+    {
+        "word": "Agreement",
+        "meaning": "Accept to something offically",
+        "synonyms": [
+            "concord",
+            "Accord",
+            "Assent",
+            "consent",
+            "consensus",
+            "Concurrence",
+            "congruity",
+            "unison",
+            "Accept",
+            "Acquiesce (UnWilling accept)"
+        ],
+        "antonyms": [
+            "Discord",
+            "Dissent",
+            "Incongrous",
+            "Defiance",
+            "Disagree",
+            "Desonance"
+        ]
+    },
+    {
+        "word": "Many",
+        "meaning": "a lot  of",
+        "synonyms": [
+            "Abundant",
+            "Plentiful",
+            "Ample",
+            "Bountiful",
+            "Rich",
+            "profuse",
+            "opulent",
+            "Affluent",
+            "Adequate"
+        ],
+        "antonyms": [
+            "Deficient",
+            "Lack/Laxity",
+            "sparse",
+            "paltry",
+            "Inadequate",
+            "scanty",
+            "Meagre",
+            "Insufficient",
+            "scarce",
+            "Low"
+        ]
+    },
+    {
+        "word": "Absurd",
+        "meaning": "Wildly unreasonable, illogical",
+        "synonyms": [
+            "Irrational",
+            "Unreasonable",
+            "Bizarre",
+            "Insane",
+            "Preculiar",
+            "weird",
+            "Ridiculous",
+            "Fanciful",
+            "ludicrous",
+            "Eccentric",
+            "Outlandish",
+            "Grotesque",
+            "Farcical",
+            "Queerish-(a queer fish)",
+            "Preposterous",
+            "Foolish",
+            "Senseless"
+        ],
+        "antonyms": [
+            "Judicious",
+            "witty",
+            "Wise",
+            "Sensible",
+            "Clever",
+            "prudent",
+            "Sane",
+            "Sagacious-(sage)",
+            "Sapient",
+            "Logical",
+            "Bright",
+            "Brainy",
+            "smart"
+        ]
+    },
+    {
+        "word": "Flourish",
+        "meaning": "Develop or grow",
+        "synonyms": [
+            "Prosper",
+            "Thrive",
+            "Bourgeon",
+            "Develop",
+            "Proliferate",
+            "Succeed",
+            "Triumph",
+            "Excel",
+            "Bloom"
+        ],
+        "antonyms": [
+            "Fail",
+            "Struggle",
+            "Flounder",
+            "Stumble",
+            "Falter",
+            "Limp"
+        ]
+    },
+    {
+        "word": "Brag",
+        "meaning": "To speak too proudly about what you have done",
+        "synonyms": [
+            "Boast",
+            "Swagger",
+            "Blow-smoke",
+            "Puff",
+            "Flaunt",
+            "Extol",
+            "Laud",
+            "Acclaim-(praise)",
+            "Glorify",
+            "Commend",
+            "Countenance",
+            "Gush"
+        ],
+        "antonyms": [
+            "Belittle-(Criticize)",
+            "Denigrate",
+            "Derogate",
+            "Depreciate",
+            "Deprecate",
+            "Denounce",
+            "decry",
+            "write off",
+            "Vilify",
+            "Slander",
+            "Defame",
+            "Censure",
+            "Reprehend"
+        ]
+    },
+    {
+        "word": "Lazy",
+        "meaning": "Unwilling to work or use energy",
+        "synonyms": [
+            "Passive",
+            "Dormant",
+            "Indolent",
+            "Sluggish",
+            "Lethargic",
+            "Sloth"
+        ],
+        "antonyms": [
+            "Active",
+            "Lively",
+            "Animated",
+            "Jaunty",
+            "Sprightly",
+            "Exuberant",
+            "Ebullient"
+        ]
+    },
+    {
+        "word": "Aggressive",
+        "meaning": "Ready or likely to attack",
+        "synonyms": [
+            "Truculent",
+            "Antagonistic",
+            "Belligerent",
+            "Bellicose",
+            "Hostile",
+            "Pugnacious",
+            "Rude",
+            "Harsh",
+            "Impolite",
+            "Discourteous",
+            "Comforontational",
+            "Quarelsome",
+            "surly",
+            "Contentious"
+        ],
+        "antonyms": [
+            "Amiable",
+            "Amicable",
+            "Affable",
+            "Cordial",
+            "Hospitable",
+            "Convivial",
+            "Congenial",
+            "Genial",
+            "Sociable",
+            "Gregarious"
+        ]
+    },
+    {
+        "word": "Attractive",
+        "meaning": "Pleasing or Appealing",
+        "synonyms": [
+            "Allure",
+            "Appeal",
+            "Fascinate",
+            "Tempting",
+            "Cajole",
+            "Captivate",
+            "Bewitch",
+            "Infatuate",
+            "Entrance",
+            "Dazzle",
+            "Mesmerize",
+            "Enthral"
+        ],
+        "antonyms": [
+            "Ugly",
+            "Unpleasant",
+            "Obnoxious",
+            "sordid",
+            "Blemish",
+            "Odious",
+            "Abhorrent",
+            "Repugnant",
+            "Repulsive",
+            "Repellent"
+        ]
+    },
+    {
+        "word": "Dangerous",
+        "meaning": "Able or Likely to cause harm or injury",
+        "synonyms": [
+            "Pernicious",
+            "Fatal",
+            "noxious",
+            "Lethal",
+            "Deadly",
+            "Jeopardy",
+            "Perilous",
+            "Venomous",
+            "Insidious",
+            "Parlous",
+            "Ominous",
+            "Menacing",
+            "Maleficent",
+            "Hazardous",
+            "Inimical"
+        ],
+        "antonyms": [
+            "Safe",
+            "Benficial",
+            "harmless",
+            "Generous",
+            "Benign",
+            "Innocuous"
+        ]
+    },
+    {
+        "word": "Malevolent",
+        "meaning": "Having or Showing a wish to do evil to others",
+        "synonyms": [
+            "Cruel",
+            "Malice",
+            "wicked",
+            "Vicious",
+            "Ghastly",
+            "Brutal",
+            "Heinous",
+            "Callous",
+            "Monstrous",
+            "Ruthless",
+            "Hideous",
+            "Barbarous",
+            "Savage",
+            "Cut-Throat",
+            "Vile",
+            "Fiendish"
+        ],
+        "antonyms": [
+            "Compassionate",
+            "Caring",
+            "Empahetic",
+            "Concerned",
+            "Warm",
+            "Lenient",
+            "Tolerant",
+            "Considerate",
+            "Humane",
+            "Benevolent",
+            "Generous",
+            "Merciful"
+        ]
+    },
+    {
+        "word": "Impoverishment",
+        "meaning": "The process of becoming poor or loss of wealth",
+        "synonyms": [
+            "Penniless",
+            "Idigent",
+            "Needy",
+            "Bankrupt",
+            "Insolvent",
+            "Pauper",
+            "Paucity",
+            "Broken",
+            "Destitute",
+            "Impecunious",
+            "Laxity",
+            "Dearik",
+            "Penurious"
+        ],
+        "antonyms": [
+            "Opulent",
+            "Affluent",
+            "Grandiose",
+            "Palakial",
+            "Deluxe",
+            "Swish",
+            "Well off",
+            "Prosperous",
+            "Lush"
+        ]
+    },
+    {
+        "word": "Woe",
+        "meaning": "Great sorrow or Distress",
+        "synonyms": [
+            "Gloomy",
+            "Dull",
+            "Desolate",
+            "Dejected",
+            "Dismal",
+            "Grim",
+            "Bleak",
+            "Doleful",
+            "Sombre",
+            "Morese",
+            "Mournful",
+            "Saturine",
+            "Forlorn",
+            "melancholy",
+            "Lugubrious"
+        ],
+        "antonyms": [
+            "Blish",
+            "Rapture",
+            "Evalted",
+            "Cloud nine",
+            "Seventh heven",
+            "Delight",
+            "Exhilaration"
+        ]
+    },
+    {
+        "word": "Imitable",
+        "meaning": "Worthy of being a pattern to be imitated",
+        "synonyms": [
+            "Contankerous",
+            "Waspish",
+            "Irascible",
+            "Peevish",
+            "Pettish",
+            "Peppery",
+            "Choloric",
+            "Peekish",
+            "perverse",
+            "Ratty",
+            "cranky"
+        ],
+        "antonyms": [
+            "Poor",
+            "Unsatisfactory",
+            "bad",
+            "Substandard",
+            "vile",
+            "atrocious",
+            "inadequate",
+            "wretched"
+        ]
+    },
+    {
+        "word": "Unfriendly",
+        "meaning": "not friendly",
+        "synonyms": [
+            "Detachment",
+            "Aloof",
+            "cold shoulder",
+            "Haughty"
+        ],
+        "antonyms": [
+            "friendly",
+            "Warm",
+            "Sympathetic",
+            "Happy",
+            "Cordial",
+            "Genial"
+        ]
+    },
+    {
+        "word": "Disrespect",
+        "meaning": "Showing a lack of respect or courtesy",
+        "synonyms": [
+            "Disdaiy",
+            "Contemptuous",
+            "Disparaging",
+            "Mockish",
+            "Jeering",
+            "Derogatory",
+            "Insolent",
+            "Snobbish"
+        ],
+        "antonyms": [
+            "Reverence",
+            "venerate",
+            "Esteem",
+            "Adulate",
+            "Honour"
+        ]
+    },
+    {
+        "word": "Cunning",
+        "meaning": "Tricking other people",
+        "synonyms": [
+            "Crafty",
+            "Guileful",
+            "Devious",
+            "manipulative",
+            "Deceitful",
+            "Foxy",
+            "Wily",
+            "Sly"
+        ],
+        "antonyms": [
+            "Innocent",
+            "Naive",
+            "Childlike",
+            "Ingenuous"
+        ]
+    },
+    {
+        "word": "Obsequious",
+        "meaning": "Obedient or over action",
+        "synonyms": [
+            "servile",
+            "Fawning",
+            "oily",
+            "Gressy",
+            "Toadying",
+            "Subservient",
+            "Brown-nosing",
+            "Soapy"
+        ],
+        "antonyms": [
+            "Tyranny",
+            "Domination",
+            "oppression",
+            "imperious",
+            "coercive",
+            "Despoitc",
+            "Draconian"
+        ]
+    },
+    {
+        "word": "Extrovert",
+        "meaning": "Over talkative",
+        "synonyms": [
+            "Garrulous",
+            "verbose",
+            "Voluble",
+            "Prolix",
+            "Jabbler",
+            "Babble",
+            "Blabber",
+            "Prattle",
+            "Loquacious"
+        ],
+        "antonyms": [
+            "Taciturn",
+            "Reticent",
+            "Bashful",
+            "Introvert",
+            "Tight Lipped",
+            "Reserved",
+            "Recluse",
+            "Secluse",
+            "Demure"
+        ]
+    },
+    {
+        "word": "Taxing",
+        "meaning": "Physically or mentally demanding",
+        "synonyms": [
+            "Burdensome",
+            "Uphill",
+            "Tailsom",
+            "Laborious",
+            "Fatiguable",
+            "Grvelling",
+            "Tiring",
+            "Assidous",
+            "Indefatiguable"
+        ],
+        "antonyms": [
+            "Easy",
+            "Simple",
+            "Uncomplicated",
+            "plain saling",
+            "Cake walk",
+            "Chairsplay",
+            "Facile"
+        ]
+    },
+    {
+        "word": "Criticize",
+        "meaning": "Indicate the faults in a disapproving way",
+        "synonyms": [
+            "Rebuke",
+            "Reprimand",
+            "chide",
+            "Castigate",
+            "censure",
+            "Chastise",
+            "Scold",
+            "Admonish",
+            "Condemn"
+        ],
+        "antonyms": [
+            "Praise",
+            "Flatter",
+            "hail",
+            "Compliement",
+            "Admire",
+            "Adore",
+            "Appreciate",
+            "Venerate",
+            "Veneration",
+            "Commend"
+        ]
+    },
+    {
+        "word": "Meticolous",
+        "meaning": "One who care about small things",
+        "synonyms": [
+            "Careful",
+            "Diligent",
+            "scrupulous",
+            "Studious",
+            "Industrious",
+            "Conscientious",
+            "Perfectionist",
+            "Accurate",
+            "painstaking",
+            "rigorous"
+        ],
+        "antonyms": [
+            "Careless",
+            "Inattentive",
+            "remiss",
+            "heedless",
+            "sloppy",
+            "Reckless",
+            "shoddy",
+            "Scrappy",
+            "Amateurish",
+            "Hasty",
+            "Inexact",
+            "Scatter brained"
+        ]
+    },
+    {
+        "word": "Parsimonious",
+        "meaning": "very unwilling to spend money or use",
+        "synonyms": [
+            "Miserly",
+            "Ungenerous",
+            "Closefisted",
+            "Penny-pinching",
+            "Penurious",
+            "Sparing",
+            "Frugal",
+            "Stingy",
+            "Mingy",
+            "Cheap"
+        ],
+        "antonyms": [
+            "Extravagant",
+            "lavish",
+            "Proligate",
+            "prodigal",
+            "Spendthrift",
+            "liberal",
+            "Imprudent-Unwise",
+            "Squandering-waste"
+        ]
+    },
+    {
+        "word": "Daunting",
+        "meaning": "Sudden fear  but not its character",
+        "synonyms": [
+            "Intimidating",
+            "Unnerving",
+            "Demoralizing",
+            "Forbidding",
+            "Fearsome",
+            "Challenging",
+            "aminous"
+        ],
+        "antonyms": [
+            "Favourable",
+            "auspicious",
+            "optimistic",
+            "promising"
+        ]
+    },
+    {
+        "word": "Adamant",
+        "meaning": "Refuse to change one's mind\n",
+        "synonyms": [
+            "Stubborn",
+            "Rigid",
+            "Inflexible",
+            "Firm",
+            "Uncompromising",
+            "Obstinate",
+            "Unwavering",
+            "Resolute",
+            "Intransigent",
+            "Inexorable",
+            "obdurate",
+            "unyielding",
+            "Strongly-willed"
+        ],
+        "antonyms": [
+            "Cooperative",
+            "Obedient",
+            "Compliant",
+            "Docile",
+            "Amenable",
+            "malleble",
+            "Pliable-flexible",
+            "Yielding",
+            "Persuadable",
+            "Tame",
+            "Tractable"
+        ]
+    },
+    {
+        "word": "Brave",
+        "meaning": "Courageous behaviour or character",
+        "synonyms": [
+            "fearless",
+            "Courageous",
+            "valient",
+            "Valorous",
+            "Gallant",
+            "Intrepid",
+            "Lionhearted",
+            "Daredevil",
+            "Audacity",
+            "Bold",
+            "Dauntless",
+            "Mettlesome",
+            "Gusty",
+            "Venturous"
+        ],
+        "antonyms": [
+            "Timorous",
+            "Timid",
+            "Faint-hearted",
+            "Chicken-hearted",
+            "coward",
+            "Trepid",
+            "Fearful",
+            "Pusillanimity",
+            "Diffident-nervous"
+        ]
+    },
+    {
+        "word": "Candid",
+        "meaning": "Truthful and straight forward",
+        "synonyms": [
+            "Frank",
+            "Honest",
+            "Blunt",
+            "Open"
+        ],
+        "antonyms": [
+            "Deceitful",
+            "Reserved",
+            "Prejudiced"
+        ]
+    },
+    {
+        "word": "Alleviate",
+        "meaning": "To reduce or Relieve",
+        "synonyms": [
+            "Relieve",
+            "Ease",
+            "Soothe",
+            "Assuage",
+            "Mitigate",
+            "Pacify",
+            "Placate"
+        ],
+        "antonyms": [
+            "Worsen",
+            "Aggravate",
+            "Intensify",
+            "Heighten"
+        ]
+    },
+    {
+        "word": "Vain",
+        "meaning": "Useless",
+        "synonyms": [
+            "Useless",
+            "Futile",
+            "Barren",
+            "ofnoavail",
+            "Infertile",
+            "Impotent"
+        ],
+        "antonyms": [
+            "Fruitful",
+            "Productive",
+            "Profitable",
+            "Potent",
+            "Fertile"
+        ]
+    },
+    {
+        "word": "Hindrances",
+        "meaning": "Problem ",
+        "synonyms": [
+            "Problem",
+            "Hazard",
+            "Obstacle",
+            "Barrier''",
+            "Impediment",
+            "Deterrant",
+            "Hurdles",
+            "Constraints",
+            "Obstruction",
+            "Encumberance",
+            "Stumbling",
+            "Block",
+            "Shackless",
+            "Feltess",
+            "Balk",
+            "Clog",
+            "Cramp",
+            "stall"
+        ],
+        "antonyms": [
+            "Incentive",
+            "Stimulus",
+            "Impetus",
+            "Advantage",
+            "Catalyst",
+            "Help",
+            "Boost",
+            "Encourage"
+        ]
+    },
+    {
+        "word": "Doubtful",
+        "meaning": "a feeling of uncertainty",
+        "synonyms": [
+            "Dubious",
+            "Dicey",
+            "Indecisive",
+            "Uncertain",
+            "Precarious",
+            "Suspicious",
+            "Hazy",
+            "Skeptical",
+            "Unstable",
+            "Unsure"
+        ],
+        "antonyms": [
+            "Certian",
+            "clear",
+            "Indubious",
+            "sure"
+        ]
+    },
+    {
+        "word": "Ambiguous",
+        "meaning": "Not having one obvious meaning",
+        "synonyms": [
+            "Unclear",
+            "Cryptic",
+            "enigmatic",
+            "Inconclusive",
+            "Puzzling",
+            "Opaque",
+            "vague",
+            "Indefinite",
+            "Obscure",
+            "Equivocal"
+        ],
+        "antonyms": [
+            "Lucid",
+            "plain",
+            "obvious",
+            "certain",
+            "Understandable",
+            "Fathomable"
+        ]
+    },
+    {
+        "word": "Embargo",
+        "meaning": "an official ban",
+        "synonyms": [
+            "Ban",
+            "Prohibition",
+            "Veto",
+            "Proscription",
+            "Denial",
+            "Objection",
+            "Forbid"
+        ],
+        "antonyms": [
+            "Approval",
+            "license",
+            "Allovance"
+        ]
+    },
+    {
+        "word": "Greedy",
+        "meaning": "Having an Excessive desire",
+        "synonyms": [
+            "Mercenary",
+            "Avaricious",
+            "Desirous",
+            "Rapacious",
+            "Glutton",
+            "Voracious",
+            "Materialistic",
+            "Unquenchable",
+            "Insatiable",
+            "Discontended",
+            "Gobbling"
+        ],
+        "antonyms": [
+            "Generous",
+            "Liberal",
+            "Magnanimous",
+            "Satiable",
+            "Unsparing",
+            "Contented"
+        ]
+    },
+    {
+        "word": "serene",
+        "meaning": "Calm",
+        "synonyms": [
+            "Calm",
+            "Emposed",
+            "Tranquil",
+            "Pacific",
+            "Poised",
+            "Unpertubed",
+            "Placid",
+            "Nonplussed"
+        ],
+        "antonyms": [
+            "Anxious",
+            "Nervous",
+            "Turblent",
+            "Perturbed",
+            "Agitated"
+        ]
+    },
+    {
+        "word": "Infringe",
+        "meaning": "Dis obey",
+        "synonyms": [
+            "Violate",
+            "Breach",
+            "Defy",
+            "Disregard",
+            "Overstep",
+            "Contravene"
+        ],
+        "antonyms": [
+            "Heed-listen",
+            "act in accordance with",
+            "Comply(Comply- with is Combination)",
+            "Abide(Abide-by)",
+            "Stick(Stick-to)"
+        ]
+    },
+    {
+        "word": "Ostentatious",
+        "meaning": "Over Showing",
+        "synonyms": [
+            "Gaudy",
+            "Flamboyant",
+            "Conspicous",
+            "Ornate",
+            "Flashy"
+        ],
+        "antonyms": [
+            "Modest",
+            "Simple",
+            "Down to earth",
+            "Humble"
+        ]
+    }
+]
